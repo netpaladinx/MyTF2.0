@@ -337,4 +337,3 @@ if __name__ == '__main__':
     translate(u'esta es mi vida.')
     translate(u'¿todavia estan en casa?')
     translate(u'trata de averiguarlo.')
-    translate(u'Esta bola es realmente apestosa.')
